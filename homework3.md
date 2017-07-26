@@ -16,20 +16,20 @@ Here is a chart I made containing the information I found:
 NFL Owners		                    Trump	     Hillary
 			
 Edward Glazer (Tampa Bay)		    $55,400 	   $5,400 
-Steve Tisch (NY Giants)			                 $2,700 
+Steve Tisch (NY Giants)			                   $2,700 
 Jeffrey Lurie (Philadelphia)			           $2,700 
-Bob McNair (Houston)		      $254,600 	
-Woody Johnson (NY Jets)		    $100,000 	
-Red McCombs (Minnesota)		    $5,400 	
+Bob McNair (Houston)		          $254,600 	
+Woody Johnson (NY Jets)		          $100,000 	
+Red McCombs (Minnesota)		          $5,400 	
 Robert Kraft (New England)		$1,000,000 	
-Jerry Jones (Dallas)		      $1,000,000 	
-Shahid Khan (Jaguars)		      $1,000,000 	
+Jerry Jones (Dallas)		        $1,000,000 	
+Shahid Khan (Jaguars)		       $1,000,000 	
 Stan Kroenke (Rams)		        $1,000,000 	   $2,700 
 Daniel Snyder (Washington)		$1,000,000 	
-Jed York (San Francisco)			               $1,000 
- Arthur Blank (Atlanta)			                 $5,400 
+Jed York (San Francisco)			           $1,000 
+ Arthur Blank (Atlanta)			                   $5,400 
 			
-Total 		                    $5,415,400 	   $19,900 
+Total 		                     $5,415,400 	   $19,900 
 
 
 Five NFL owners each donated $1 million to Trump, while the biggest donation to Hillary was just $5,400, the price of many used cars. 
