@@ -57,22 +57,7 @@ Let’s look at some of the numbers:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/brentschwartz/digital-frameworks-hw/blob/master/Screen%20Shot%202017-08-25%20at%202.45.42%20PM.png?raw=true
 
 
 
