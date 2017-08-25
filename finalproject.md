@@ -59,7 +59,7 @@ https://github.com/brentschwartz/digital-frameworks-hw/blob/master/Screen%20Shot
 
 The number of snaps played by Patriots' scatbacks in Super Bowls are tremendously higher than the regular season average. The usage of scatbacks during the past three Super Bowls has increased every year, culminating in James White's performance, in which he played most of the game. 
 
-The one outlier -- Scatback Shane Vereen receiving the majority of the 2014 regular season snaps -- can easily be explained. 
+The one minor outlier -- scatback Shane Vereen receiving the majority of the 2014 regular season snaps -- can easily be explained. 
 
 The Patriots lost Ridley early on during the 2014 season, and had to call up Gray from the practice squad later in the year. After Gray fell out of favor, the Patriots traded for Blount late in the season to fill the traditional running back role. It's plausible to assume that had Ridley not been injured, Vereen would have not played the majority of running back snaps during the 2014 regular season. 
 
