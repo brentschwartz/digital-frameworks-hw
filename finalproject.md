@@ -57,9 +57,7 @@ Let’s look at some of the numbers:
 
 
 
-https://github.com/brentschwartz/digital-frameworks-hw/blob/master/Screen%20Shot%202017-08-25%20at%202.45.42%20PM.png?raw=true
-
-
+digital-frameworks-hw/Screen Shot 2017-08-25 at 2.45.42 PM.png 
 
 
 Teams of all leagues are always looking for a new advantage, and former NFL tight end George Wrighster says that’s scatbacks provide an advantage that’s similar to that of the defending NBA champions. 
