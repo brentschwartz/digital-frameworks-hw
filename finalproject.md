@@ -92,6 +92,6 @@ One of the biggest notions that back my story is explained in the story as well.
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 
 
-Anyways, as I've now past 200 words (263!),I'll say sorry I had to bore you with a football story (haha), but alas, it's what I'm good at. 
+Anyways, as I've now passed 200 words (263!),I'll say sorry I had to bore you with a football story (haha), but alas, it's what I'm good at. 
 
 Just wanted to say thank you for teaching this class and for being lenient with my traveling throughout the summer!
