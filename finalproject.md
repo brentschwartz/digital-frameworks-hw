@@ -55,9 +55,7 @@ For the Patriots, there is a striking increased usage of Scatbacks in their Supe
 
 Let’s look at some of the numbers:
 
-
-
-digital-frameworks-hw/Screen Shot 2017-08-25 at 2.45.42 PM.png 
+https://github.com/brentschwartz/digital-frameworks-hw/blob/master/Screen%20Shot%202017-08-25%20at%202.45.42%20PM.png
 
 
 Teams of all leagues are always looking for a new advantage, and former NFL tight end George Wrighster says that’s scatbacks provide an advantage that’s similar to that of the defending NBA champions. 
