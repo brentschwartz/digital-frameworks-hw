@@ -57,7 +57,6 @@ Let’s look at some of the numbers:
 
 https://github.com/brentschwartz/digital-frameworks-hw/blob/master/Screen%20Shot%202017-08-25%20at%202.45.42%20PM.png
 
-
 Teams of all leagues are always looking for a new advantage, and former NFL tight end George Wrighster says that’s scatbacks provide an advantage that’s similar to that of the defending NBA champions. 
 
 
@@ -66,3 +65,28 @@ Teams of all leagues are always looking for a new advantage, and former NFL tigh
 
 In June, The Warriors won their second NBA championship in three seasons. New England has won two of the past three Super Bowls, and five championships since 2001 in part by implementing scatbacks more than just situationally. It’s no wonder more teams are following suit. 
 
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+How I did this/why I did this:
+
+I've been studying scatbacks this summer, and talking to NFL analysts and ex-scatbacks (such as J.R. Redmond about the evolution of a role position, that is now becoming the norm for a starting position. The Patriots are leading the way in upping the importance of these guys, showcased by how they use them in Super Bowls. 
+
+I found the regular season data and 2014/2016 Super Bowl data on Pro Football Reference's site. Excellent tool. As for the 2011 Super Bowl, I knew Woodhead was used mroe often, but had to document that data myself. So yes, I took an hour or two to shift through EVERY Patriots offense snap in Super Bowl 46 to see hwo often Green-Ellis and Woodhead were on the field. 
+
+After 65 offensive snaps, Woodhead was on the field for 37 plays, while Green-Ellis just 23. 
+
+Green-Ellis had mroe snaps during the regular season, but not in the big game. 
+
+This all started when J.R. Redmond played the bulk of the Patriots running back snaps down stretch of Super Bowl 36 in 2001, the first Super Bowl victory of the Tom Brady-Bill Belichick victory in New England. 
+
+Other teams are now following suit, as Inside the Pylon did data on the increase of scatbacks snapcounts. 
+
+One of the biggest notions that back my story is explained in the story as well. A scatback-type player like Stanford's Christian McCaffrey would NEVER be drafted as high as he during the 2017 NFL draft. This is because his skill set is valuable and these guys are being used more in today's game. 
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+
+Anyways, as I've now past 200 words (263!),I'll say sorry I had to bore you with a football story (haha), but alas, it's what I'm good at. 
+
+Just wanted to say thank you for teaching this class and for being lenient with my traveling throughout the summer!
