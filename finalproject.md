@@ -50,15 +50,16 @@ Brady’s next three completions were to Redmond, who fought his way out of boun
 Brady completed two more passes downfield to Troy Brown and Jermaine Wiggins, before Adam Vinatieri nailed the game-winning 48-yard field goal. The usage of Redmond set the tone for scatbacks in future Patriots’ Super Bowls, leading up White’s performance in February. 
 
 
-For the Patriots, there is a striking increased usage of Scatbacks in their Super Bowls, compared to the regular season. 
+For the Patriots, there is a striking increased usage of Scatbacks in their Super Bowls, compared to the regular season. I researched and tallied up some snap counts for the Patriots during the regular season and Super Bowl for seasons in which they made the big game. 
 
 
 Let’s look at some of the numbers:
 
 https://github.com/brentschwartz/digital-frameworks-hw/blob/master/Screen%20Shot%202017-08-25%20at%202.45.42%20PM.png
 
-Teams of all leagues are always looking for a new advantage, and former NFL tight end George Wrighster says that’s scatbacks provide an advantage that’s similar to that of the defending NBA champions. 
+The number of snaps played by Patriots' scatbacks in Super Bowls are tremendously higher than the regular season average. The usage of scatbacks during the past three Super Bowls has increased every year, culminating in James White's performance, in which he played most of the game. 
 
+Teams of all leagues are always looking for a new advantage, and former NFL tight end George Wrighster says that’s scatbacks provide an advantage that’s similar to that of the defending NBA champions. 
 
 “The league {NFL} is evolving like the NBA is,” said Wrighster. “There have always been really good three-point shooters, but no one would put four three-point shooters on the floor at once until recently. The {Golden State} Warriors shoot the ball so well that they have been able to create more space on the floor. Teams were resistant to take their big guys off the floor because they thought they had an advantage.”
 
