@@ -55,7 +55,7 @@ For the Patriots, there is a striking increased usage of Scatbacks in their Supe
 
 Let’s look at some of the numbers:
 
-https://github.com/brentschwartz/digital-frameworks-hw/blob/master/Screen%20Shot%202017-08-25%20at%202.45.42%20PM.png
+![image title](https://github.com/brentschwartz/digital-frameworks-hw/blob/master/Screen%20Shot%202017-08-25%20at%202.45.42%20PM.png)
 
 The number of snaps played by Patriots' scatbacks in Super Bowls are tremendously higher than the regular season average. The usage of scatbacks during the past three Super Bowls has increased every year, culminating in James White's performance, in which he played most of the game. 
 
